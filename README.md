@@ -5,7 +5,7 @@ This project expands upon my published research "Temporal Patterns of Reciprocit
 By dissecting communication into reciprocal and non-reciprocal flows, we uncover consistent patterns that distinguish direct exchanges from broadcasted information. Employing a suite of null models to simulate communication behaviors, we pinpoint 'memory'—the propensity to re-engage with previous contacts—as a fundamental mechanism driving temporal reciprocity. Incorporating memory into an activity-driven model of dynamic networks allows us to replicate empirical levels of reciprocity observed in real-world data, providing new insights into the underlying processes that foster social norms and collective cooperation.
 
 For further details, refer to the full article:
-- EPJ-Data Science: (https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_382/13688_2023_Article_382.html)
+- [EPJ-Data Science](https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_382/13688_2023_Article_382.html)
 
 # Technical Project Overview
 
