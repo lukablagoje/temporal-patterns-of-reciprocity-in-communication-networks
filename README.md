@@ -13,4 +13,4 @@ The project comprises several Jupyter notebooks, each dedicated to a distinct ph
 
 # Data
 
-To access the data used in the research (SMS, calls, e-mails, Twitter), please refer to this [GitHub repository](https://github.com/dynamicalsystemsceu/data
+To access the data used in the research (SMS, calls, e-mails, Twitter), please refer to this [GitHub repository](https://github.com/dynamicalsystemsceu/data)
