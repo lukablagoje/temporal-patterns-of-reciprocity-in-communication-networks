@@ -10,7 +10,7 @@ For further details, check out these links:
 The project comprises several Jupyter notebooks, each dedicated to a distinct phase of the research:
 
 1. **shuffling_resampling_null_model_functions.ipynb**: Scripts to generate shuffled (resampled) networks (graphs) based on different hypotheses.
-
-# Data
-
-To access the data used in the research (SMS, calls, e-mails, Twitter), please refer to this [GitHub repository](https://github.com/dynamicalsystemsceu/data)
+2. **median_based_hypothesis_test.ipynb**: Describes how the median-based hypothesis test is performed
+# Data:
+Intermediate data used is uploaded in the pickle (.pkl) format. Measures are computed in the shuffled datasets - **shuffled_calls_measures.pkl**  and the original empirical datasets - **original_results.pkl**.
+To access the  full data used in the research (SMS, calls, e-mails, Twitter), please refer to this [GitHub repository](https://github.com/dynamicalsystemsceu/data)
