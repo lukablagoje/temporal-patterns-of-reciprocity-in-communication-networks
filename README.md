@@ -14,4 +14,5 @@ The project comprises several Jupyter notebooks, each dedicated to a distinct ph
 
 # Data:
 Intermediate data used is uploaded in the pickle (.pkl) format. Measures are computed in the shuffled datasets - **shuffled_calls_measures.pkl**  and the original empirical datasets - **original_results.pkl**.
+
 To access the  full data used in the research (SMS, calls, e-mails, Twitter), please refer to this [GitHub repository](https://github.com/dynamicalsystemsceu/data)
