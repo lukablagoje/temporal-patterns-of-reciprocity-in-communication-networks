@@ -10,8 +10,8 @@ For further details, check out these links:
 # Technical Project Overview
 The project comprises several Jupyter notebooks, each dedicated to a distinct phase of the research:
 
-1. Scripts to generate resampled networks (graphs) based on different hypotheses [**shuffling_resampling_null_model_functions.ipynb**](https://github.com/lukablagoje/temporal-patterns-of-reciprocity-in-communication-networks/blob/main/shuffling_resampling_null_model_functions.ipynb).
-2. Describes how the median-based hypothesis test is performed on the Calls dataset [**median_based_hypothesis_test.ipynb**](https://github.com/lukablagoje/temporal-patterns-of-reciprocity-in-communication-networks/blob/main/median_based_hypothesis_test.ipynb).
+1. [**shuffling_resampling_null_model_functions.ipynb**](https://github.com/lukablagoje/temporal-patterns-of-reciprocity-in-communication-networks/blob/main/shuffling_resampling_null_model_functions.ipynb) - Scripts to generate resampled networks (graphs) based on different hypotheses.
+2. [**median_based_hypothesis_test.ipynb**](https://github.com/lukablagoje/temporal-patterns-of-reciprocity-in-communication-networks/blob/main/median_based_hypothesis_test.ipynb) - Describes how the median-based hypothesis test is performed on the Calls dataset.
 
 # Data:
 Intermediate data used is uploaded in the pickle (.pkl) format. Measures are computed in the shuffled datasets - **shuffled_calls_measures.pkl**  and the original empirical datasets - **original_results.pkl**.
